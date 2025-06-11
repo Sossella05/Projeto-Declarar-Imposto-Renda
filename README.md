@@ -1,4 +1,4 @@
-# 💰 Projeto - Imposto de Renda 2.0
+# 💰 Projeto - Imposto de Renda
 
 Este projeto é uma planilha interativa com macros (`.xlsm`) desenvolvida para auxiliar pessoas físicas na organização de dados necessários para a **Declaração do Imposto de Renda**.
 
